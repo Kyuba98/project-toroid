@@ -1,0 +1,47 @@
+Bronie (Wszystkie statystyki oparte o ciąg Fibonacciego)
+				2, 3, 5, 8, 13, 21
+Sword	+3
+Mace		+5
+War Axe	+8
+
+Woden Rod		+3
+Leser Staff	+5
+Merlin Staff	+8
+
+Excalibur +8 +8 (Physical + Magical)(Double Slash - zadaje fizyczne obrażenia oraz magiczne)
+Indian Banana +13 (Physical)(Banana cuts) x2
+
+Armor
+Lether Armor 		+3
+Chainmail Armor	+5
+Full Plate Armor	+8
+
+Lether Robe				+3
+Cloak of Magic protection	+5
+Cloak of Magic silk			+8
+
+Magic Scale Armor				+13
+Runic Plate Armor (Omni shield+)	+8
+
+Hełmy dodają mniej obrony ale dają troche do ofensywy
+
+Lether Cap 		+2
+Iron Helmet		+3
+Fullhelm			+5
+
+Lether Hod		+2
+Magic Hat			+3
+Merlin Hat		+5
+
+Dragon Scale Helmet		+8
+Runic Plate Helmet		+8
+
+Buty dodają bonus Defensywny każdego typu
+
+Lether Boots		+2
+Plate Boots		+3
+Rabit Lether Boots	+5
+
+--||--
+--||--
+--||--

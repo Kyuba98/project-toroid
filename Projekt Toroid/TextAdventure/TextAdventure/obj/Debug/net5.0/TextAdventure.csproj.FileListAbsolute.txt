@@ -1,0 +1,48 @@
+C:\Users\home\source\repos\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.exe
+C:\Users\home\source\repos\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.deps.json
+C:\Users\home\source\repos\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.json
+C:\Users\home\source\repos\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.dev.json
+C:\Users\home\source\repos\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.dll
+C:\Users\home\source\repos\TextAdventure\TextAdventure\bin\Debug\net5.0\ref\TextAdventure.dll
+C:\Users\home\source\repos\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.pdb
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfo.cs
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.dll
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\ref\TextAdventure.dll
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.pdb
+C:\Users\home\source\repos\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.genruntimeconfig.cache
+D:\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.exe
+D:\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.deps.json
+D:\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.json
+D:\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.dev.json
+D:\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.dll
+D:\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.pdb
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csproj.AssemblyReference.cache
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfoInputs.cache
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfo.cs
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csproj.CoreCompileInputs.cache
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.dll
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\refint\TextAdventure.dll
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.pdb
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.genruntimeconfig.cache
+D:\TextAdventure\TextAdventure\obj\Debug\net5.0\ref\TextAdventure.dll
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.exe
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.deps.json
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.json
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.dev.json
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.dll
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.pdb
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfo.cs
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.dll
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.pdb
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.genruntimeconfig.cache
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\ref\TextAdventure.dll
+C:\Users\home\Desktop\Projekt Toroid\TextAdventure\TextAdventure\obj\Debug\net5.0\refint\TextAdventure.dll
